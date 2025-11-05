@@ -2,7 +2,7 @@
 name = "JSONParser"
 version = "0.1.0"
 edition = "2024"
-description = "A parser for a JSON-type structure";
+description = "A parser for a JSON-type structure"
 license = "MIT"
 
 [dependencies]
