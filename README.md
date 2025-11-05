@@ -27,4 +27,7 @@ Example:
 
 Some fields can contain null or an empty string "".
 
-After parsing with a command, it can execute value of each field.
+
+## Output
+
+After parsing a JSON file, the program extracts the value of each field and converts it into a corresponding Rust data structure.
