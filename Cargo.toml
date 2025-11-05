@@ -1,0 +1,10 @@
+[package]
+name = "JSONParser"
+version = "0.1.0"
+edition = "2024"
+description = "A parser for a JSON-type structure";
+license = "MIT"
+
+[dependencies]
+pest = "2.8.3"
+pest_derive = "2.8.3"
