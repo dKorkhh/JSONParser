@@ -1,0 +1,18 @@
+{
+    "date": "2024-06-10T18:45:00Z",
+    "version": "1.0.3",
+    "changes": [
+        {
+            "type": "addition",
+            "description": "Added GenericObject struct to src/lib.rs for handling generic data types."
+        },
+        {
+            "type": "modification",
+            "description": "Updated grammar.pest to include json rule and refined object and array definitions."
+        },
+        {
+            "type": "modification",
+            "description": "Refactored src/main.rs to improve import statements and code organization."
+        }
+    ]
+}
