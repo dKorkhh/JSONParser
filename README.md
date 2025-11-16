@@ -1,4 +1,8 @@
-# parser_of_json
+# Parser of JSON
+
+## Creates.io
+
+https://crates.io/crates/parser_of_json
 
 ## Description: 
 
