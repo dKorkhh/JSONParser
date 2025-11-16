@@ -99,7 +99,3 @@ Boolean - literals true or false.
 
 **null**  
 `null`
-
----
-
-## Railroad Diagram (Parsing Flow)
