@@ -1,4 +1,4 @@
-use json_parser::{get_field, parse_json, validate_json};
+use parser_of_json::{get_field, parse_json, validate_json};
 use std::env;
 use std::fs;
 

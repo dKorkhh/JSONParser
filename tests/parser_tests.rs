@@ -1,4 +1,4 @@
-use json_parser::{JsonValue, get_field, parse_json, validate_json};
+use parser_of_json::{JsonValue, get_field, parse_json, validate_json};
 
 #[test]
 fn test_invalid_missing_brace() {
