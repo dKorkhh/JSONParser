@@ -140,7 +140,7 @@ fn parse_array(pair: pest::iterators::Pair<Rule>) -> Result<JsonValue, ParseErro
 fn parse_string(pair: pest::iterators::Pair<Rule>) -> JsonValue {
     let mut s = pair.as_str().to_string();
     s.remove(0);
-    s.pop(); 
+    s.pop();
     JsonValue::String(s)
 }
 
